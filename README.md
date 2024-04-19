@@ -2,10 +2,12 @@
 
 ## Usage
 
-In the project directory, you can run:
+```
+npm install
 
-### `npm start`
+# Run on http://localhost:3000
+npm start
 
-### '# Run on localhost'
-
-### 'npm start'
+# Build for prod
+npm run build
+```
